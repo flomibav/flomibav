@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Florangel 👋
 
-<!--
-**flomibav/flomibav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mechanical Engineering | Data Analytics | Digital Engineering
 
-Here are some ideas to get you started:
+I have an academic background in Mechanical Engineering and I am currently expanding my skills in data analytics and digital technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently completing the **Data Analytics course at ReDI School Munich**  
+**September 8 – December 9, 2026**
+
+This portfolio is currently in progress. I will progressively publish selected course exercises and my final project here.
+
+### Current tools and technologies
+
+- Python
+- SQL / MySQL
+- Power BI
+- Jupyter Notebook
+- AutoCAD
+- Autodesk Inventor
+- SolidWorks
+- ANSYS
+
+### Areas of interest
+
+- Research & Development
+- Data Analytics
+- Digital Engineering
+- Industrial Automation
+- Industry 4.0
+- Robotics
